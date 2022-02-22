@@ -5,7 +5,7 @@ Just run this simple python app and you can find your word in less than a minute
 
 # How to Run?
 
-1- run `git clone https://github.com/mohsenone/solve-wordle`
-2- go to solve-wordle folder: `cd solve-wordle`
-3- run `python wordle.py`
-4- answer the questions and you will find out the answer!
+1. run `git clone https://github.com/mohsenone/solve-wordle`
+2. go to solve-wordle folder: `cd solve-wordle`
+3. run `python wordle.py`
+4. answer the questions and you will find out the answer!
